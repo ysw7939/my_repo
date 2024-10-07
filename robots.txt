@@ -1,4 +1,10 @@
- User-agent: *
- Allow: /
- 
- Sitemap: https://ysw7939.github.io/sitemap.xml
+---
+permalink: /robots.txt
+# The robots rules
+---
+
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
