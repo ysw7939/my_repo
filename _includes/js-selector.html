@@ -94,7 +94,7 @@
   {% if site.pwa.enabled %}
     <script
       defer
-      src="?baseurl={{ site.baseurl | default: '' }}&register={{ site.pwa.cache.enabled }}"
+      src="baseurl={{ site.baseurl | default: '' }}&register={{ site.pwa.cache.enabled }}"
     ></script>
   {% endif %}
 
