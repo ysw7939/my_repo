@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>하루코딩</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-10-08T00:18:41+09:00</updated>
+  <updated>2024-10-08T22:33:08+09:00</updated>
   <author>
     <name>su-won</name>
     <uri>http://localhost:4000/</uri>
@@ -61,7 +61,7 @@ test
     <link href="http://localhost:4000/posts/%EC%A7%80%EB%8F%84-API%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%84%EC%B9%98%EC%A0%95%EB%B3%B4-%EC%A0%84%EC%86%A1/" rel="alternate" type="text/html" title="지도 API를 이용한 실시간 위치정보 전송" />
     <published>2024-02-03T00:00:00+09:00</published>
   
-    <updated>2024-10-08T00:03:34+09:00</updated>
+    <updated>2024-10-08T00:19:12+09:00</updated>
   
     <id>http://localhost:4000/posts/%EC%A7%80%EB%8F%84-API%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%84%EC%B9%98%EC%A0%95%EB%B3%B4-%EC%A0%84%EC%86%A1/</id>
     <content src="http://localhost:4000/posts/%EC%A7%80%EB%8F%84-API%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9C%84%EC%B9%98%EC%A0%95%EB%B3%B4-%EC%A0%84%EC%86%A1/" />
